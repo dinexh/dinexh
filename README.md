@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript**
+![coding-freak](https://github.com/dinexh/dinexh/assets/131236761/028d4141-d129-4dc7-b59b-15141bb717b9)
+![developer-dribbble](https://github.com/dinexh/dinexh/assets/131236761/97370589-ac56-441d-aff8-3073de6fdda0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
