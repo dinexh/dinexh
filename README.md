@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 1st year CSE Student from india.<br>Currently learning JavaScript and DSA.<br>
+I'm a 1st year CSE Student from india.
 
 
 ## 🌐 Socials:
