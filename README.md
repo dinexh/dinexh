@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dineshkorukonda.in/](https://dineshkorukonda.in/)
 
-- 📫 How to reach me **dineshkorukonda05@gmail.com
+- 📫 How to reach me **dineshkorukonda05@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinexh&show_icons=true&locale=en" alt="dinexh" /></p>
 
