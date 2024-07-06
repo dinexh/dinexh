@@ -10,3 +10,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinexh&show_icons=true&locale=en" alt="dinexh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinexh&" alt="dinexh" /></p>
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
