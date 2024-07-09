@@ -13,4 +13,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinexh&" alt="dinexh" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinexh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
