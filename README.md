@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinesh korukonda</h1>
 <h3 align="center">Web Developer | Linux Enthusiast | Avid Learner</h3>
 
-- 🌱 I’m currently mastering **MERN Stack**
+- 🌱 I’m currently mastering **MERN Stack** & **NEXTJS**
 
 - 👨‍💻 All of my projects are available at [https://dineshkorukonda.in/](https://dineshkorukonda.in/)
 
