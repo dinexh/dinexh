@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dineshkorukonda05@gmail.com**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinexh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinexh&show_icons=true&locale=en" alt="dinexh" /></p>
 
