@@ -10,5 +10,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinexh&show_icons=true&locale=en" alt="dinexh" /></p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinexh&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
