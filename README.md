@@ -56,4 +56,5 @@ Here are all the programming languages, tools, and technologies I have used in m
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
