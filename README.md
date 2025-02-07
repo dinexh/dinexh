@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://dineshkorukonda.in/blogs](https://dineshkorukonda.in/blogs)
 
-- 📫 How to reach me **dineshkorukonda2026@gmail.com**
+- 📫 How to reach me **dineshkorukonda.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
