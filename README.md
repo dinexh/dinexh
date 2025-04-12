@@ -26,3 +26,6 @@
        src="https://github-readme-stats.vercel.app/api?username=dinexh&show_icons=true&locale=en&theme=dark" 
        alt="dinexh" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinexh&theme=dark" alt="dinexh" />
+</p>
