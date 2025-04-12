@@ -26,4 +26,3 @@
        src="https://github-readme-stats.vercel.app/api?username=dinexh&show_icons=true&locale=en&theme=dark" 
        alt="dinexh" />
 </p>
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinexh&show_icons=true&locale=en&theme=dark&count_private=true)
