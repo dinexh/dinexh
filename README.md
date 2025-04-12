@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinexh&label=Profile%20views&color=0e75b6&style=flat" alt="dinexh" /> </p>
 
-- 🔭 I’m currently working on **Go and Full Stack Projects**
+- 🔭 I’m currently working on **Go and Building my own Shell**
 
 - 👨‍💻 All of my projects are available at [https://dineshkorukonda.in](https://dineshkorukonda.in)
 
