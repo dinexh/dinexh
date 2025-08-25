@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dinesh Korukonda</h1>
-<h3 align="center">A Full Stack Developer from India</h3>
-
+<h3 align="center">Undergrad dev trying to explore eveything </h3>
+<h3 align="center"> Full stack | Shell Building | building scalable solutions at Beamx </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinexh&label=Profile%20views&color=0e75b6&style=flat" alt="dinexh" /> </p>
 
-- 🔭 I’m currently working on **Go and Building my own Shell**
-
 - 👨‍💻 All of my projects are available at [https://dineshkorukonda.in](https://dineshkorukonda.in)
-
-- 📝 I regularly write articles on [https://dineshkorukonda.in/blogs](https://dineshkorukonda.in/blogs)
-
+- 
 - 📫 How to reach me **dineshkorukonda.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
