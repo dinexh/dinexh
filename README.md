@@ -4,10 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinexh&label=Profile%20views&color=0e75b6&style=flat" alt="dinexh" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://dineshkorukonda.in](https://dineshkorukonda.in)
-- 
 - 📫 How to reach me **dineshkorukonda.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
