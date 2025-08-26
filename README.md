@@ -9,7 +9,7 @@
 
 <p>
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=dinesh&show_icons=true&locale=en&layout=compact&theme=dark" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=dinexh&show_icons=true&locale=en&layout=compact&theme=dark" 
        alt="dinexh" />
 </p>
 
