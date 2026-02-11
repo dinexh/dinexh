@@ -9,6 +9,8 @@ https://dineshkorukonda.in/blogs
 
 I also take on freelance work, primarily developing websites and mobile applications, and helping teams improve their online presence through SEO and performance-focused engineering. I prefer projects where I can work closely with the product and contribute beyond just writing code.
 
+For freelance inquiries, you can reach me at:
+hello@dineshkorukonda.in
 
 Outside of code, I like breaking down complex problems, reading about how software evolves over time, and continuously refining how I think about building things.
 
