@@ -12,3 +12,5 @@ hello@dineshkorukonda.in
 
 You can find more about me and my work at  
 https://dineshkorukonda.in
+
+GitHub: https://github.com/dineshkorukonda
