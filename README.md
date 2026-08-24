@@ -1,15 +1,21 @@
-Hi, I’m Dinesh Korukonda.
+# Dinesh Korukonda
 
-I build software by exploring how systems work, how tools can be made simpler, and how ideas turn into usable products. Most of my work sits at the intersection of backend engineering, developer tooling, and full-stack applications.
+Backend + DevOps engineer. I build infrastructure tooling — deployment engines, 
+rollback systems, monitoring — then use them to run my own projects in production.
 
+Currently: final-year CS (May 2027), actively interviewing for DevOps/Platform 
+and Backend roles.
 
-Alongside building software, I also write. On my website, I publish short pieces and long-form notes about software, systems, and the way I think about building things. My writing is an extension of my development work — a way to slow down, reflect, and explain ideas clearly. The latest writing can be found here:
-https://dineshkorukonda.in/blogs
+**Recent work:**
+- [VersionGate](https://versiongate.tech) — self-hosted blue-green zero-downtime deployment engine
+- [CARF](https://carf.dineshkorukonda.online) — change-aware rollback decision framework (co-authored the underlying research)
+- [Monix](https://monix.dineshkorukonda.online) — zero-auth website diagnostic engine (security, SEO, performance, subdomain recon)
+- [subchk](https://subchk.dineshkorukonda.online) — subdomain enumeration CLI
+- [system-ops](https://github.com/dineshkorukonda/system-ops) — self-hosted VPS ops console
 
-For freelance inquiries, you can reach me at:
-hello@dineshkorukonda.in
+**Stack:** TypeScript · Node.js · Next.js · PostgreSQL · Docker · Nginx · 
+GitHub Actions · Elixir/Phoenix
 
----
+I write about systems and software at [dineshkorukonda.in/blogs](https://dineshkorukonda.in/blogs).
 
-Website: [dineshkorukonda.in](https://dineshkorukonda.in)  
-Email: hello@dineshkorukonda.in
+📫 hello@dineshkorukonda.in
