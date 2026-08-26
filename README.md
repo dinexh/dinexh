@@ -8,7 +8,7 @@ and Backend roles.
 
 **Recent work:**
 - [VersionGate](https://versiongate.tech) — self-hosted blue-green zero-downtime deployment engine
-- [CARF](https://carf.dineshkorukonda.online) — change-aware rollback decision framework (co-authored the underlying research)
+- [CARF](https://carf-cp.vercel.app) — change-aware rollback decision framework (co-authored the underlying research)
 - [Monix](https://monix.dineshkorukonda.online) — zero-auth website diagnostic engine (security, SEO, performance, subdomain recon)
 - [subchk](https://subchk.dineshkorukonda.online) — subdomain enumeration CLI
 - [system-ops](https://github.com/dineshkorukonda/system-ops) — self-hosted VPS ops console
